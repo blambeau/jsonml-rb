@@ -1,0 +1,10 @@
+CHANGELOG.md
+Gemfile
+lib/**/*
+LICENCE.md
+jsonml.gemspec
+Manifest.txt
+Rakefile
+README.md
+spec/**/*
+tasks/**/*

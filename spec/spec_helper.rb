@@ -1,0 +1,2 @@
+require 'jsonml'
+require 'rspec'
