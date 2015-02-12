@@ -6,5 +6,5 @@ Simply.
 
 ```ruby
 require 'jsonml'
-JsonML.toHtmlText([ 'html', ['body', { class: "small" }, 'Hello World' ]])
+JsonML.to_html_text([ 'html', ['body', { class: "small" }, 'Hello World' ]])
 ```
